@@ -1,0 +1,35 @@
+# Model weights - too large for GitHub (hosted on HuggingFace Hub instead)
+gemma-2-9b-safety/
+llama-3.1-8b-safety/
+qwen2.5-7b-safety/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
